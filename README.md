@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bipasha Brahma
-- 👀 I’m interested in using data to help business organizations gain insights and make decisions accordingly.
+- 👀 I’m an aspiring Data Analyst who wants to use data to help business organizations gain insights and make decisions accordingly.
 - 🌱 I’m currently exploring the world of data by leaarning new skills and languages to build a career in Data Analytics and Data Science.
 - 💞️ I’m looking to collaborate on EXCEL, SQL, PYTHON AND DATA VISUALISATION PROJECTS using POWER BI or TABLEAU
 - 📫 How to reach me EMAIL: bipashabrahma1997@gmail.com LINKEDIN: (https://www.linkedin.com/in/bipasha-brahma-4a051112a)
